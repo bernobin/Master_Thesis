@@ -1,3 +1,7 @@
+# IMPORTANT DISCLAIMER
+For storage reasons (and perhaps also legal reasons) I did not upload the historic data required to generate the config.json.
+This code will only evaluate the uniswap subgraph of UNI, DAI, WBTC, USDT, WETH and USDC.
+
 # Optimal Liquidity Pool Graphs
 
 As a product of my master thesis I have three python scripts to present
